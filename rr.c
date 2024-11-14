@@ -19,7 +19,7 @@ void main(){
  		scanf("%d",&bt[i]);
         temp_bt[i]=bt[i];
  	}
-
+	i=0;
     while(1){
         while(bt[i]!=0){
             //bt>tq
